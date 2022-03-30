@@ -2,7 +2,7 @@
 This Basic App Allows You to Capture and Save Screenshots from Azure Kinect DK Camera
 <br/><br/><br/><br/><br/>
 
-![Screenshot](https://github.com/RGuven/AzureKinectCamera_TakeSS_via_CSharp/blob/main/Images/app_appearance.png =400x600)
+<img src="https://github.com/RGuven/AzureKinectCamera_TakeSS_via_CSharp/blob/main/Images/app_appearance.png" width="300">
 |:--:|
 | <b>Appearance of The Application</b>|
 
