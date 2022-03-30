@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "görev-MainWindow.xaml",
+      "appliesTo": "MainWindow.xaml.cs",
+      "type": "launch"
+    }
+  ]
+}
